@@ -3,3 +3,4 @@ boter
 suiker
 appels
 peren
+wortel
