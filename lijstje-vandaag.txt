@@ -8,3 +8,4 @@ wortel
 schoonmaak:
 doekjes
 zeep
+schuurspons
