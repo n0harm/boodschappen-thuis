@@ -9,3 +9,4 @@ schoonmaak:
 doekjes
 zeep
 schuurspons
+test
