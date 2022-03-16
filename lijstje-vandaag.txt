@@ -4,3 +4,7 @@ suiker
 appels
 peren
 wortel
+
+schoonmaak:
+doekjes
+zeep
